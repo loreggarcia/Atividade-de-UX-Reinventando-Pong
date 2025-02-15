@@ -39,7 +39,7 @@ A nova versão de _Pong_ se inspira em jogos de “quebra-blocos” (_block brea
 
 
 **Objetivo da Reinvenção**
-![Pasted image 20250214222742.png]
+<img src = "Captura de tela 2025-02-14 213446.png" alt = "concept art">
 **Rascunho da Folha de Concept Art**
 
 O concept art foi desenvolvido pensando na mescla entre o Pong original e os elementos de quebra-blocos tentando colocar as novas regras do jogo no papel com setas mostrando o trajeto das bolas quando rebatidas, sinalizando que se elas passarem pelo adversário, o adversário perde uma bola e pequenos rótulos explicando como cada bloco pode gerar uma bolinha extra.
@@ -51,15 +51,8 @@ O concept art foi desenvolvido pensando na mescla entre o Pong original e os ele
 ## 4. Tela Digital do Jogo
 
 [](https://github.com/InteliContent/M1/blob/main/UX-Design/Reinventando-Pong_Template.md#4-tela-digital-do-jogo)
-
-<src = "Captura de tela 2025-02-14 214012.png" alt = imagem concept art>
-_- Como o concept foi adaptado para o formato digital?_
-
-_- Quais elementos visuais foram aprimorados?_
-
-_- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?_
-
 ---
+<img src = "Captura de tela 2025-02-14 214012.png" alt = "imagem digital ">
 **Adaptação do Concept para o Formato Digital**  
 No processo de passar do rascunho em papel para a arte digital, houve uma preocupação em traduzir os elementos principais (barras, bolas, blocos e power-ups) para um estilo visual mais limpo e coeso, aproveitando os recursos de design vetorial e paletas de cores vibrantes. A ideia foi manter a disposição geral dos elementos do esboço, mas aprimorar detalhes, contrastes e animações que só são possíveis em ambiente digital.
 

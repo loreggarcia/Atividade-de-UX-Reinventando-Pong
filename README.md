@@ -52,7 +52,7 @@ O concept art foi desenvolvido pensando na mescla entre o Pong original e os ele
 
 [](https://github.com/InteliContent/M1/blob/main/UX-Design/Reinventando-Pong_Template.md#4-tela-digital-do-jogo)
 
-![[Pasted image 20250214222742.png]]
+<src = "Captura de tela 2025-02-14 214012.png" alt = imagem concept art>
 _- Como o concept foi adaptado para o formato digital?_
 
 _- Quais elementos visuais foram aprimorados?_
